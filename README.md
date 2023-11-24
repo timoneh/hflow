@@ -10,7 +10,7 @@
 
 __Invertible Hierarchical Generative Model for Images__ \
 Heikki Timonen, Miika Aittala, Jaakko Lehtinen \
-__Paper__
+[Paper](https://openreview.net/pdf?id=4rkKN4tM63)
 
 ## Setup
 
@@ -83,7 +83,7 @@ By default, the training code generates a `TB`-folder that contains a tensorboar
 
 
 ### Pretrained models
-Coming soon
+See [Releases](https://github.com/timoneh/hflow/releases/tag/v1.0.0).
 
 
 ### Examples of evaluating a model
@@ -126,7 +126,18 @@ This work in this repository is licensed under the Apache 2.0 license. The [Styl
 
 
 ## Citation
-Coming soon
+```
+@article{
+timonen2023invertible,
+title={Invertible Hierarchical Generative Model for Images},
+author={Heikki Timonen and Miika Aittala and Jaakko Lehtinen},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2023},
+url={https://openreview.net/forum?id=4rkKN4tM63},
+note={}
+}
+```
 
 
 ## Acknowledgements
